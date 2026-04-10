@@ -1,0 +1,4 @@
+id,function,param
+1,select_choice,A
+2,call_api,weather
+3,confirm,true
